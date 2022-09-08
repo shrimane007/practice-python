@@ -3,6 +3,6 @@ w=bytes(s)
 w[0]=100
 print(w)
 
-
+tuple
 
 
